@@ -1,0 +1,6 @@
+c:\users\adi\documents\visual studio 2013\Projects\FirstStepsInCoding\SquareOfStars\bin\Debug\SquareOfStars.exe.config
+c:\users\adi\documents\visual studio 2013\Projects\FirstStepsInCoding\SquareOfStars\bin\Debug\SquareOfStars.exe
+c:\users\adi\documents\visual studio 2013\Projects\FirstStepsInCoding\SquareOfStars\bin\Debug\SquareOfStars.pdb
+c:\users\adi\documents\visual studio 2013\Projects\FirstStepsInCoding\SquareOfStars\obj\Debug\SquareOfStars.exe
+c:\users\adi\documents\visual studio 2013\Projects\FirstStepsInCoding\SquareOfStars\obj\Debug\SquareOfStars.pdb
+c:\users\adi\documents\visual studio 2013\Projects\FirstStepsInCoding\SquareOfStars\obj\Debug\SquareOfStars.csprojResolveAssemblyReference.cache
