@@ -1,0 +1,6 @@
+c:\users\adi\documents\visual studio 2015\Projects\AdvancedLoopsAF\NOD\bin\Debug\NOD.exe.config
+c:\users\adi\documents\visual studio 2015\Projects\AdvancedLoopsAF\NOD\bin\Debug\NOD.exe
+c:\users\adi\documents\visual studio 2015\Projects\AdvancedLoopsAF\NOD\bin\Debug\NOD.pdb
+c:\users\adi\documents\visual studio 2015\Projects\AdvancedLoopsAF\NOD\obj\Debug\NOD.csprojResolveAssemblyReference.cache
+c:\users\adi\documents\visual studio 2015\Projects\AdvancedLoopsAF\NOD\obj\Debug\NOD.exe
+c:\users\adi\documents\visual studio 2015\Projects\AdvancedLoopsAF\NOD\obj\Debug\NOD.pdb

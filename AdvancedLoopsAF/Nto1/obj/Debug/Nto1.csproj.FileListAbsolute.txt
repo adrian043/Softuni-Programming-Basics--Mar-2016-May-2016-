@@ -1,0 +1,5 @@
+c:\users\adi\documents\visual studio 2015\Projects\AdvancedLoopsAF\Nto1\bin\Debug\Nto1.exe.config
+c:\users\adi\documents\visual studio 2015\Projects\AdvancedLoopsAF\Nto1\bin\Debug\Nto1.exe
+c:\users\adi\documents\visual studio 2015\Projects\AdvancedLoopsAF\Nto1\bin\Debug\Nto1.pdb
+c:\users\adi\documents\visual studio 2015\Projects\AdvancedLoopsAF\Nto1\obj\Debug\Nto1.exe
+c:\users\adi\documents\visual studio 2015\Projects\AdvancedLoopsAF\Nto1\obj\Debug\Nto1.pdb

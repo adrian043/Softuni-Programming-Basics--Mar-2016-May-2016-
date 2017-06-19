@@ -1,0 +1,6 @@
+c:\users\adi\documents\visual studio 2015\Projects\AdvancedLoopsAF\pyramidOfNums\bin\Debug\pyramidOfNums.exe.config
+c:\users\adi\documents\visual studio 2015\Projects\AdvancedLoopsAF\pyramidOfNums\bin\Debug\pyramidOfNums.exe
+c:\users\adi\documents\visual studio 2015\Projects\AdvancedLoopsAF\pyramidOfNums\bin\Debug\pyramidOfNums.pdb
+c:\users\adi\documents\visual studio 2015\Projects\AdvancedLoopsAF\pyramidOfNums\obj\Debug\pyramidOfNums.csprojResolveAssemblyReference.cache
+c:\users\adi\documents\visual studio 2015\Projects\AdvancedLoopsAF\pyramidOfNums\obj\Debug\pyramidOfNums.exe
+c:\users\adi\documents\visual studio 2015\Projects\AdvancedLoopsAF\pyramidOfNums\obj\Debug\pyramidOfNums.pdb

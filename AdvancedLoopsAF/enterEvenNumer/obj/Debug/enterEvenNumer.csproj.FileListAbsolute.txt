@@ -1,0 +1,6 @@
+c:\users\adi\documents\visual studio 2015\Projects\AdvancedLoopsAF\enterEvenNumer\bin\Debug\enterEvenNumer.exe.config
+c:\users\adi\documents\visual studio 2015\Projects\AdvancedLoopsAF\enterEvenNumer\bin\Debug\enterEvenNumer.exe
+c:\users\adi\documents\visual studio 2015\Projects\AdvancedLoopsAF\enterEvenNumer\bin\Debug\enterEvenNumer.pdb
+c:\users\adi\documents\visual studio 2015\Projects\AdvancedLoopsAF\enterEvenNumer\obj\Debug\enterEvenNumer.csprojResolveAssemblyReference.cache
+c:\users\adi\documents\visual studio 2015\Projects\AdvancedLoopsAF\enterEvenNumer\obj\Debug\enterEvenNumer.exe
+c:\users\adi\documents\visual studio 2015\Projects\AdvancedLoopsAF\enterEvenNumer\obj\Debug\enterEvenNumer.pdb
