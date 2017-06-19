@@ -1,0 +1,6 @@
+c:\users\adi\documents\visual studio 2015\Projects\DrawingLoops\Rectangle\bin\Debug\Rectangle.exe.config
+c:\users\adi\documents\visual studio 2015\Projects\DrawingLoops\Rectangle\bin\Debug\Rectangle.exe
+c:\users\adi\documents\visual studio 2015\Projects\DrawingLoops\Rectangle\bin\Debug\Rectangle.pdb
+c:\users\adi\documents\visual studio 2015\Projects\DrawingLoops\Rectangle\obj\Debug\Rectangle.csprojResolveAssemblyReference.cache
+c:\users\adi\documents\visual studio 2015\Projects\DrawingLoops\Rectangle\obj\Debug\Rectangle.exe
+c:\users\adi\documents\visual studio 2015\Projects\DrawingLoops\Rectangle\obj\Debug\Rectangle.pdb

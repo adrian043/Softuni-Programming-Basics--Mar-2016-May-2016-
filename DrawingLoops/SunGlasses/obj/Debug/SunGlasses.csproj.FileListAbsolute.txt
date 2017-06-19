@@ -1,0 +1,6 @@
+c:\users\adi\documents\visual studio 2015\Projects\DrawingLoops\SunGlasses\bin\Debug\SunGlasses.exe.config
+c:\users\adi\documents\visual studio 2015\Projects\DrawingLoops\SunGlasses\bin\Debug\SunGlasses.exe
+c:\users\adi\documents\visual studio 2015\Projects\DrawingLoops\SunGlasses\bin\Debug\SunGlasses.pdb
+c:\users\adi\documents\visual studio 2015\Projects\DrawingLoops\SunGlasses\obj\Debug\SunGlasses.exe
+c:\users\adi\documents\visual studio 2015\Projects\DrawingLoops\SunGlasses\obj\Debug\SunGlasses.pdb
+C:\Users\Adi\documents\visual studio 2015\Projects\DrawingLoops\SunGlasses\obj\Debug\SunGlasses.csprojResolveAssemblyReference.cache

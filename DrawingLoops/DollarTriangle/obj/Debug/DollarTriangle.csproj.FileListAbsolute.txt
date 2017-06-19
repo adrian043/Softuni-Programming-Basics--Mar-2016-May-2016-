@@ -1,0 +1,5 @@
+c:\users\adi\documents\visual studio 2015\Projects\DrawingLoops\DollarTriangle\bin\Debug\DollarTriangle.exe.config
+c:\users\adi\documents\visual studio 2015\Projects\DrawingLoops\DollarTriangle\bin\Debug\DollarTriangle.exe
+c:\users\adi\documents\visual studio 2015\Projects\DrawingLoops\DollarTriangle\bin\Debug\DollarTriangle.pdb
+c:\users\adi\documents\visual studio 2015\Projects\DrawingLoops\DollarTriangle\obj\Debug\DollarTriangle.exe
+c:\users\adi\documents\visual studio 2015\Projects\DrawingLoops\DollarTriangle\obj\Debug\DollarTriangle.pdb
