@@ -1,0 +1,5 @@
+C:\Users\Adi\documents\visual studio 2015\Projects\SimpleLoopsTwo\VowelsSum\bin\Debug\VowelsSum.exe.config
+C:\Users\Adi\documents\visual studio 2015\Projects\SimpleLoopsTwo\VowelsSum\bin\Debug\VowelsSum.exe
+C:\Users\Adi\documents\visual studio 2015\Projects\SimpleLoopsTwo\VowelsSum\bin\Debug\VowelsSum.pdb
+C:\Users\Adi\documents\visual studio 2015\Projects\SimpleLoopsTwo\VowelsSum\obj\Debug\VowelsSum.exe
+C:\Users\Adi\documents\visual studio 2015\Projects\SimpleLoopsTwo\VowelsSum\obj\Debug\VowelsSum.pdb

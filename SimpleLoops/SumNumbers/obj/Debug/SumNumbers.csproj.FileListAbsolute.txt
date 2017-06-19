@@ -1,0 +1,5 @@
+C:\Users\Adi\Documents\Visual Studio 2015\Projects\SimpleLoopsTwo\SumNumbers\bin\Debug\SumNumbers.exe.config
+C:\Users\Adi\Documents\Visual Studio 2015\Projects\SimpleLoopsTwo\SumNumbers\bin\Debug\SumNumbers.exe
+C:\Users\Adi\Documents\Visual Studio 2015\Projects\SimpleLoopsTwo\SumNumbers\bin\Debug\SumNumbers.pdb
+C:\Users\Adi\Documents\Visual Studio 2015\Projects\SimpleLoopsTwo\SumNumbers\obj\Debug\SumNumbers.exe
+C:\Users\Adi\Documents\Visual Studio 2015\Projects\SimpleLoopsTwo\SumNumbers\obj\Debug\SumNumbers.pdb

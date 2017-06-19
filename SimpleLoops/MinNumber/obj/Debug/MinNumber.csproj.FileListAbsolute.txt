@@ -1,0 +1,5 @@
+C:\Users\Adi\Documents\Visual Studio 2015\Projects\SimpleLoopsTwo\MinNumber\bin\Debug\MinNumber.exe.config
+C:\Users\Adi\Documents\Visual Studio 2015\Projects\SimpleLoopsTwo\MinNumber\bin\Debug\MinNumber.exe
+C:\Users\Adi\Documents\Visual Studio 2015\Projects\SimpleLoopsTwo\MinNumber\bin\Debug\MinNumber.pdb
+C:\Users\Adi\Documents\Visual Studio 2015\Projects\SimpleLoopsTwo\MinNumber\obj\Debug\MinNumber.exe
+C:\Users\Adi\Documents\Visual Studio 2015\Projects\SimpleLoopsTwo\MinNumber\obj\Debug\MinNumber.pdb

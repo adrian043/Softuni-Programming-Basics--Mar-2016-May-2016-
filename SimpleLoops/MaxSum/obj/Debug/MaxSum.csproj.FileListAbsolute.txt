@@ -1,0 +1,5 @@
+C:\Users\Adi\Documents\Visual Studio 2015\Projects\SimpleLoopsTwo\MaxSum\bin\Debug\MaxSum.exe.config
+C:\Users\Adi\Documents\Visual Studio 2015\Projects\SimpleLoopsTwo\MaxSum\bin\Debug\MaxSum.exe
+C:\Users\Adi\Documents\Visual Studio 2015\Projects\SimpleLoopsTwo\MaxSum\bin\Debug\MaxSum.pdb
+C:\Users\Adi\Documents\Visual Studio 2015\Projects\SimpleLoopsTwo\MaxSum\obj\Debug\MaxSum.exe
+C:\Users\Adi\Documents\Visual Studio 2015\Projects\SimpleLoopsTwo\MaxSum\obj\Debug\MaxSum.pdb

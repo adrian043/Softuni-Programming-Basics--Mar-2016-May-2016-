@@ -1,0 +1,6 @@
+C:\Users\Adi\documents\visual studio 2015\Projects\SimpleLoopsTwo\OddEvenSum\bin\Debug\OddEvenSum.exe.config
+C:\Users\Adi\documents\visual studio 2015\Projects\SimpleLoopsTwo\OddEvenSum\bin\Debug\OddEvenSum.exe
+C:\Users\Adi\documents\visual studio 2015\Projects\SimpleLoopsTwo\OddEvenSum\bin\Debug\OddEvenSum.pdb
+C:\Users\Adi\documents\visual studio 2015\Projects\SimpleLoopsTwo\OddEvenSum\obj\Debug\OddEvenSum.csprojResolveAssemblyReference.cache
+C:\Users\Adi\documents\visual studio 2015\Projects\SimpleLoopsTwo\OddEvenSum\obj\Debug\OddEvenSum.exe
+C:\Users\Adi\documents\visual studio 2015\Projects\SimpleLoopsTwo\OddEvenSum\obj\Debug\OddEvenSum.pdb
