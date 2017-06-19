@@ -1,0 +1,6 @@
+C:\Users\Adi\documents\visual studio 2013\Projects\SimpleConditionalStatements\AreaOfFigures\bin\Debug\AreaOfFigures.exe.config
+C:\Users\Adi\documents\visual studio 2013\Projects\SimpleConditionalStatements\AreaOfFigures\bin\Debug\AreaOfFigures.exe
+C:\Users\Adi\documents\visual studio 2013\Projects\SimpleConditionalStatements\AreaOfFigures\bin\Debug\AreaOfFigures.pdb
+C:\Users\Adi\documents\visual studio 2013\Projects\SimpleConditionalStatements\AreaOfFigures\obj\Debug\AreaOfFigures.exe
+C:\Users\Adi\documents\visual studio 2013\Projects\SimpleConditionalStatements\AreaOfFigures\obj\Debug\AreaOfFigures.pdb
+C:\Users\Adi\documents\visual studio 2013\Projects\SimpleConditionalStatements\AreaOfFigures\obj\Debug\AreaOfFigures.csprojResolveAssemblyReference.cache

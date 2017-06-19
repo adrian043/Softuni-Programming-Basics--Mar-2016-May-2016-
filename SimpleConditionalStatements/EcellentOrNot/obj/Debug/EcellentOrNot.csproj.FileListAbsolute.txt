@@ -1,0 +1,9 @@
+c:\users\adi\documents\visual studio 2013\Projects\SimpleConditionalStatements\EcellentOrNot\bin\Debug\EcellentOrNot.exe.config
+c:\users\adi\documents\visual studio 2013\Projects\SimpleConditionalStatements\EcellentOrNot\bin\Debug\EcellentOrNot.exe
+c:\users\adi\documents\visual studio 2013\Projects\SimpleConditionalStatements\EcellentOrNot\bin\Debug\EcellentOrNot.pdb
+c:\users\adi\documents\visual studio 2013\Projects\SimpleConditionalStatements\EcellentOrNot\obj\Debug\EcellentOrNot.csprojResolveAssemblyReference.cache
+c:\users\adi\documents\visual studio 2013\Projects\SimpleConditionalStatements\EcellentOrNot\obj\Debug\EcellentOrNot.exe
+c:\users\adi\documents\visual studio 2013\Projects\SimpleConditionalStatements\EcellentOrNot\obj\Debug\EcellentOrNot.pdb
+C:\Users\Adi\Documents\Visual Studio 2015\Projects\SimpleConditionalStatements\EcellentOrNot\bin\Debug\EcellentOrNot.exe.config
+C:\Users\Adi\Documents\Visual Studio 2015\Projects\SimpleConditionalStatements\EcellentOrNot\obj\Debug\EcellentOrNot.exe
+C:\Users\Adi\Documents\Visual Studio 2015\Projects\SimpleConditionalStatements\EcellentOrNot\obj\Debug\EcellentOrNot.pdb

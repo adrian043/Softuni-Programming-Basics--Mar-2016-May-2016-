@@ -1,0 +1,5 @@
+c:\users\adi\documents\visual studio 2013\Projects\SimpleConditionalStatements\Number0To9ToText\bin\Debug\Number0To9ToText.exe.config
+c:\users\adi\documents\visual studio 2013\Projects\SimpleConditionalStatements\Number0To9ToText\bin\Debug\Number0To9ToText.exe
+c:\users\adi\documents\visual studio 2013\Projects\SimpleConditionalStatements\Number0To9ToText\bin\Debug\Number0To9ToText.pdb
+c:\users\adi\documents\visual studio 2013\Projects\SimpleConditionalStatements\Number0To9ToText\obj\Debug\Number0To9ToText.exe
+c:\users\adi\documents\visual studio 2013\Projects\SimpleConditionalStatements\Number0To9ToText\obj\Debug\Number0To9ToText.pdb

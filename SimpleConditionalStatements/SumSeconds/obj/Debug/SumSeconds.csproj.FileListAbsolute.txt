@@ -1,0 +1,5 @@
+c:\users\adi\documents\visual studio 2013\Projects\SimpleConditionalStatements\SumSeconds\bin\Debug\SumSeconds.exe.config
+c:\users\adi\documents\visual studio 2013\Projects\SimpleConditionalStatements\SumSeconds\bin\Debug\SumSeconds.exe
+c:\users\adi\documents\visual studio 2013\Projects\SimpleConditionalStatements\SumSeconds\bin\Debug\SumSeconds.pdb
+c:\users\adi\documents\visual studio 2013\Projects\SimpleConditionalStatements\SumSeconds\obj\Debug\SumSeconds.exe
+c:\users\adi\documents\visual studio 2013\Projects\SimpleConditionalStatements\SumSeconds\obj\Debug\SumSeconds.pdb

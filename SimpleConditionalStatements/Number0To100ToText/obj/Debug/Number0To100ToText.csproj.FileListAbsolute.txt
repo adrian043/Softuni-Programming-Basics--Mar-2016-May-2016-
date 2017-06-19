@@ -1,0 +1,5 @@
+C:\Users\Adi\documents\visual studio 2013\Projects\SimpleConditionalStatements\Number0To100ToText\bin\Debug\Number0To100ToText.exe.config
+C:\Users\Adi\documents\visual studio 2013\Projects\SimpleConditionalStatements\Number0To100ToText\bin\Debug\Number0To100ToText.exe
+C:\Users\Adi\documents\visual studio 2013\Projects\SimpleConditionalStatements\Number0To100ToText\bin\Debug\Number0To100ToText.pdb
+C:\Users\Adi\documents\visual studio 2013\Projects\SimpleConditionalStatements\Number0To100ToText\obj\Debug\Number0To100ToText.exe
+C:\Users\Adi\documents\visual studio 2013\Projects\SimpleConditionalStatements\Number0To100ToText\obj\Debug\Number0To100ToText.pdb

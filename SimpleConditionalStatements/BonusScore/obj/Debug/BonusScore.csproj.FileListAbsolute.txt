@@ -1,0 +1,5 @@
+c:\users\adi\documents\visual studio 2013\Projects\SimpleConditionalStatements\BonusScore\bin\Debug\BonusScore.exe.config
+c:\users\adi\documents\visual studio 2013\Projects\SimpleConditionalStatements\BonusScore\bin\Debug\BonusScore.exe
+c:\users\adi\documents\visual studio 2013\Projects\SimpleConditionalStatements\BonusScore\bin\Debug\BonusScore.pdb
+c:\users\adi\documents\visual studio 2013\Projects\SimpleConditionalStatements\BonusScore\obj\Debug\BonusScore.exe
+c:\users\adi\documents\visual studio 2013\Projects\SimpleConditionalStatements\BonusScore\obj\Debug\BonusScore.pdb

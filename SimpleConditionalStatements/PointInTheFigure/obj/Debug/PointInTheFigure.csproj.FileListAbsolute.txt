@@ -1,0 +1,6 @@
+C:\Users\Adi\Documents\Visual Studio 2015\Projects\SimpleConditionalStatements\PointInTheFigure\bin\Debug\PointInTheFigure.exe.config
+C:\Users\Adi\Documents\Visual Studio 2015\Projects\SimpleConditionalStatements\PointInTheFigure\bin\Debug\PointInTheFigure.exe
+C:\Users\Adi\Documents\Visual Studio 2015\Projects\SimpleConditionalStatements\PointInTheFigure\bin\Debug\PointInTheFigure.pdb
+C:\Users\Adi\Documents\Visual Studio 2015\Projects\SimpleConditionalStatements\PointInTheFigure\obj\Debug\PointInTheFigure.csprojResolveAssemblyReference.cache
+C:\Users\Adi\Documents\Visual Studio 2015\Projects\SimpleConditionalStatements\PointInTheFigure\obj\Debug\PointInTheFigure.exe
+C:\Users\Adi\Documents\Visual Studio 2015\Projects\SimpleConditionalStatements\PointInTheFigure\obj\Debug\PointInTheFigure.pdb

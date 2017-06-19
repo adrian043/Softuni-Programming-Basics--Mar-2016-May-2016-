@@ -1,0 +1,8 @@
+c:\users\adi\documents\visual studio 2013\Projects\SimpleConditionalStatements\EvenOrOdd\bin\Debug\EvenOrOdd.exe.config
+c:\users\adi\documents\visual studio 2013\Projects\SimpleConditionalStatements\EvenOrOdd\bin\Debug\EvenOrOdd.exe
+c:\users\adi\documents\visual studio 2013\Projects\SimpleConditionalStatements\EvenOrOdd\bin\Debug\EvenOrOdd.pdb
+c:\users\adi\documents\visual studio 2013\Projects\SimpleConditionalStatements\EvenOrOdd\obj\Debug\EvenOrOdd.exe
+c:\users\adi\documents\visual studio 2013\Projects\SimpleConditionalStatements\EvenOrOdd\obj\Debug\EvenOrOdd.pdb
+C:\Users\Adi\Documents\Visual Studio 2015\Projects\SimpleConditionalStatements\EvenOrOdd\bin\Debug\EvenOrOdd.exe.config
+C:\Users\Adi\Documents\Visual Studio 2015\Projects\SimpleConditionalStatements\EvenOrOdd\obj\Debug\EvenOrOdd.exe
+C:\Users\Adi\Documents\Visual Studio 2015\Projects\SimpleConditionalStatements\EvenOrOdd\obj\Debug\EvenOrOdd.pdb

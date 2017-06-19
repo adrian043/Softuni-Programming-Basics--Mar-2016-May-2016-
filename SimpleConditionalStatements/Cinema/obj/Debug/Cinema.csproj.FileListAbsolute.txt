@@ -1,0 +1,6 @@
+C:\Users\Adi\Documents\Visual Studio 2015\Projects\SimpleConditionalStatements\Cinema\bin\Debug\Cinema.exe.config
+C:\Users\Adi\Documents\Visual Studio 2015\Projects\SimpleConditionalStatements\Cinema\bin\Debug\Cinema.exe
+C:\Users\Adi\Documents\Visual Studio 2015\Projects\SimpleConditionalStatements\Cinema\bin\Debug\Cinema.pdb
+C:\Users\Adi\Documents\Visual Studio 2015\Projects\SimpleConditionalStatements\Cinema\obj\Debug\Cinema.csprojResolveAssemblyReference.cache
+C:\Users\Adi\Documents\Visual Studio 2015\Projects\SimpleConditionalStatements\Cinema\obj\Debug\Cinema.exe
+C:\Users\Adi\Documents\Visual Studio 2015\Projects\SimpleConditionalStatements\Cinema\obj\Debug\Cinema.pdb

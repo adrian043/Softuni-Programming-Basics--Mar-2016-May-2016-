@@ -1,0 +1,6 @@
+C:\Users\Adi\documents\visual studio 2013\Projects\SimpleConditionalStatements\EqualWords\bin\Debug\EqualWords.exe.config
+C:\Users\Adi\documents\visual studio 2013\Projects\SimpleConditionalStatements\EqualWords\obj\Debug\EqualWords.csprojResolveAssemblyReference.cache
+C:\Users\Adi\documents\visual studio 2013\Projects\SimpleConditionalStatements\EqualWords\bin\Debug\EqualWords.exe
+C:\Users\Adi\documents\visual studio 2013\Projects\SimpleConditionalStatements\EqualWords\bin\Debug\EqualWords.pdb
+C:\Users\Adi\documents\visual studio 2013\Projects\SimpleConditionalStatements\EqualWords\obj\Debug\EqualWords.exe
+C:\Users\Adi\documents\visual studio 2013\Projects\SimpleConditionalStatements\EqualWords\obj\Debug\EqualWords.pdb
