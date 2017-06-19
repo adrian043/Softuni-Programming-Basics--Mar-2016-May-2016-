@@ -1,0 +1,6 @@
+c:\users\adi\documents\visual studio 2015\Projects\ComplexConditionalStatements2.0\PointOnTheWall\bin\Debug\PointOnTheWall.exe.config
+c:\users\adi\documents\visual studio 2015\Projects\ComplexConditionalStatements2.0\PointOnTheWall\bin\Debug\PointOnTheWall.exe
+c:\users\adi\documents\visual studio 2015\Projects\ComplexConditionalStatements2.0\PointOnTheWall\bin\Debug\PointOnTheWall.pdb
+c:\users\adi\documents\visual studio 2015\Projects\ComplexConditionalStatements2.0\PointOnTheWall\obj\Debug\PointOnTheWall.csprojResolveAssemblyReference.cache
+c:\users\adi\documents\visual studio 2015\Projects\ComplexConditionalStatements2.0\PointOnTheWall\obj\Debug\PointOnTheWall.exe
+c:\users\adi\documents\visual studio 2015\Projects\ComplexConditionalStatements2.0\PointOnTheWall\obj\Debug\PointOnTheWall.pdb

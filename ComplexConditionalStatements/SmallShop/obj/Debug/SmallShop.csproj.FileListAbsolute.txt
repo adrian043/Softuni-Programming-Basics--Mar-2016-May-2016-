@@ -1,0 +1,1 @@
+c:\users\adi\documents\visual studio 2015\Projects\ComplexConditionalStatements2.0\SmallShop\bin\Debug\SmallShop.exe.config

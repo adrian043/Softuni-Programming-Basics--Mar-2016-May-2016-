@@ -1,0 +1,6 @@
+c:\users\adi\documents\visual studio 2015\Projects\ComplexConditionalStatements2.0\TradeComission\bin\Debug\TradeComission.exe.config
+c:\users\adi\documents\visual studio 2015\Projects\ComplexConditionalStatements2.0\TradeComission\bin\Debug\TradeComission.exe
+c:\users\adi\documents\visual studio 2015\Projects\ComplexConditionalStatements2.0\TradeComission\bin\Debug\TradeComission.pdb
+c:\users\adi\documents\visual studio 2015\Projects\ComplexConditionalStatements2.0\TradeComission\obj\Debug\TradeComission.csprojResolveAssemblyReference.cache
+c:\users\adi\documents\visual studio 2015\Projects\ComplexConditionalStatements2.0\TradeComission\obj\Debug\TradeComission.exe
+c:\users\adi\documents\visual studio 2015\Projects\ComplexConditionalStatements2.0\TradeComission\obj\Debug\TradeComission.pdb
