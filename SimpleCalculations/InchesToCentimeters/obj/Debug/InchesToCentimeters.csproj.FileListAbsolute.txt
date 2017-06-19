@@ -1,0 +1,5 @@
+c:\users\adi\documents\visual studio 2013\Projects\SimpleCalculations\InchesToCentimeters\bin\Debug\InchesToCentimeters.exe.config
+c:\users\adi\documents\visual studio 2013\Projects\SimpleCalculations\InchesToCentimeters\bin\Debug\InchesToCentimeters.exe
+c:\users\adi\documents\visual studio 2013\Projects\SimpleCalculations\InchesToCentimeters\bin\Debug\InchesToCentimeters.pdb
+c:\users\adi\documents\visual studio 2013\Projects\SimpleCalculations\InchesToCentimeters\obj\Debug\InchesToCentimeters.exe
+c:\users\adi\documents\visual studio 2013\Projects\SimpleCalculations\InchesToCentimeters\obj\Debug\InchesToCentimeters.pdb

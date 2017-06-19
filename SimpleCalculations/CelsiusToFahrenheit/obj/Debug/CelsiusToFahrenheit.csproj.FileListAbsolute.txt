@@ -1,0 +1,5 @@
+c:\users\adi\documents\visual studio 2013\Projects\SimpleCalculations\CelsiusToFahrenheit\bin\Debug\CelsiusToFahrenheit.exe.config
+c:\users\adi\documents\visual studio 2013\Projects\SimpleCalculations\CelsiusToFahrenheit\bin\Debug\CelsiusToFahrenheit.exe
+c:\users\adi\documents\visual studio 2013\Projects\SimpleCalculations\CelsiusToFahrenheit\bin\Debug\CelsiusToFahrenheit.pdb
+c:\users\adi\documents\visual studio 2013\Projects\SimpleCalculations\CelsiusToFahrenheit\obj\Debug\CelsiusToFahrenheit.exe
+c:\users\adi\documents\visual studio 2013\Projects\SimpleCalculations\CelsiusToFahrenheit\obj\Debug\CelsiusToFahrenheit.pdb

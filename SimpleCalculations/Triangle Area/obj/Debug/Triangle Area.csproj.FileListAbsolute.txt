@@ -1,0 +1,1 @@
+c:\users\adi\documents\visual studio 2013\Projects\SimpleCalculations\Triangle Area\bin\Debug\Triangle Area.exe.config

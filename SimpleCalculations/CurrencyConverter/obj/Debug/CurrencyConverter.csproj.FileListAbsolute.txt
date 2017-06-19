@@ -1,0 +1,6 @@
+c:\users\adi\documents\visual studio 2013\Projects\SimpleCalculations\CurrencyConverter\bin\Debug\CurrencyConverter.exe.config
+C:\Users\Adi\documents\visual studio 2013\Projects\SimpleCalculations\CurrencyConverter\bin\Debug\CurrencyConverter.exe
+C:\Users\Adi\documents\visual studio 2013\Projects\SimpleCalculations\CurrencyConverter\bin\Debug\CurrencyConverter.pdb
+C:\Users\Adi\documents\visual studio 2013\Projects\SimpleCalculations\CurrencyConverter\obj\Debug\CurrencyConverter.csprojResolveAssemblyReference.cache
+C:\Users\Adi\documents\visual studio 2013\Projects\SimpleCalculations\CurrencyConverter\obj\Debug\CurrencyConverter.exe
+C:\Users\Adi\documents\visual studio 2013\Projects\SimpleCalculations\CurrencyConverter\obj\Debug\CurrencyConverter.pdb

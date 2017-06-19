@@ -1,0 +1,5 @@
+c:\users\adi\documents\visual studio 2013\Projects\SimpleCalculations\TrapeziodArea\bin\Debug\TrapeziodArea.exe.config
+c:\users\adi\documents\visual studio 2013\Projects\SimpleCalculations\TrapeziodArea\bin\Debug\TrapeziodArea.exe
+c:\users\adi\documents\visual studio 2013\Projects\SimpleCalculations\TrapeziodArea\bin\Debug\TrapeziodArea.pdb
+c:\users\adi\documents\visual studio 2013\Projects\SimpleCalculations\TrapeziodArea\obj\Debug\TrapeziodArea.exe
+c:\users\adi\documents\visual studio 2013\Projects\SimpleCalculations\TrapeziodArea\obj\Debug\TrapeziodArea.pdb

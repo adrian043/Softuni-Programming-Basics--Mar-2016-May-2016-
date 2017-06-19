@@ -1,0 +1,6 @@
+c:\users\adi\documents\visual studio 2013\Projects\SimpleCalculations\SquareArea\bin\Debug\SquareArea.exe.config
+c:\users\adi\documents\visual studio 2013\Projects\SimpleCalculations\SquareArea\bin\Debug\SquareArea.exe
+c:\users\adi\documents\visual studio 2013\Projects\SimpleCalculations\SquareArea\bin\Debug\SquareArea.pdb
+c:\users\adi\documents\visual studio 2013\Projects\SimpleCalculations\SquareArea\obj\Debug\SquareArea.csprojResolveAssemblyReference.cache
+c:\users\adi\documents\visual studio 2013\Projects\SimpleCalculations\SquareArea\obj\Debug\SquareArea.exe
+c:\users\adi\documents\visual studio 2013\Projects\SimpleCalculations\SquareArea\obj\Debug\SquareArea.pdb

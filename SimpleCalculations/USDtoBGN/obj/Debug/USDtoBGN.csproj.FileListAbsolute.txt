@@ -1,0 +1,5 @@
+c:\users\adi\documents\visual studio 2013\Projects\SimpleCalculations\USDtoBGN\bin\Debug\USDtoBGN.exe.config
+c:\users\adi\documents\visual studio 2013\Projects\SimpleCalculations\USDtoBGN\bin\Debug\USDtoBGN.exe
+c:\users\adi\documents\visual studio 2013\Projects\SimpleCalculations\USDtoBGN\bin\Debug\USDtoBGN.pdb
+c:\users\adi\documents\visual studio 2013\Projects\SimpleCalculations\USDtoBGN\obj\Debug\USDtoBGN.exe
+c:\users\adi\documents\visual studio 2013\Projects\SimpleCalculations\USDtoBGN\obj\Debug\USDtoBGN.pdb
