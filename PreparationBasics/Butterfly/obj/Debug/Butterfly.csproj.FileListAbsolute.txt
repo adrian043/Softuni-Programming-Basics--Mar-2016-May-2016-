@@ -1,0 +1,6 @@
+C:\Users\Adi\documents\visual studio 2015\Projects\PreparationBasics\Butterfly\bin\Debug\Butterfly.exe.config
+C:\Users\Adi\documents\visual studio 2015\Projects\PreparationBasics\Butterfly\bin\Debug\Butterfly.exe
+C:\Users\Adi\documents\visual studio 2015\Projects\PreparationBasics\Butterfly\bin\Debug\Butterfly.pdb
+C:\Users\Adi\documents\visual studio 2015\Projects\PreparationBasics\Butterfly\obj\Debug\Butterfly.csprojResolveAssemblyReference.cache
+C:\Users\Adi\documents\visual studio 2015\Projects\PreparationBasics\Butterfly\obj\Debug\Butterfly.exe
+C:\Users\Adi\documents\visual studio 2015\Projects\PreparationBasics\Butterfly\obj\Debug\Butterfly.pdb

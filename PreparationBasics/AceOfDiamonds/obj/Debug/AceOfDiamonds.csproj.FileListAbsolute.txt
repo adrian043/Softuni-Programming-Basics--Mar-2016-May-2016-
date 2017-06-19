@@ -1,0 +1,6 @@
+C:\Users\Adi\documents\visual studio 2015\Projects\PreparationBasics\AceOfDiamonds\bin\Debug\AceOfDiamonds.exe.config
+C:\Users\Adi\documents\visual studio 2015\Projects\PreparationBasics\AceOfDiamonds\bin\Debug\AceOfDiamonds.exe
+C:\Users\Adi\documents\visual studio 2015\Projects\PreparationBasics\AceOfDiamonds\bin\Debug\AceOfDiamonds.pdb
+C:\Users\Adi\documents\visual studio 2015\Projects\PreparationBasics\AceOfDiamonds\obj\Debug\AceOfDiamonds.csprojResolveAssemblyReference.cache
+C:\Users\Adi\documents\visual studio 2015\Projects\PreparationBasics\AceOfDiamonds\obj\Debug\AceOfDiamonds.exe
+C:\Users\Adi\documents\visual studio 2015\Projects\PreparationBasics\AceOfDiamonds\obj\Debug\AceOfDiamonds.pdb

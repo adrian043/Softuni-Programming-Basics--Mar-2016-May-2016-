@@ -1,0 +1,5 @@
+C:\Users\Adi\documents\visual studio 2015\Projects\PreparationBasics\Check3NumsSum\bin\Debug\Check3NumsSum.exe.config
+C:\Users\Adi\documents\visual studio 2015\Projects\PreparationBasics\Check3NumsSum\bin\Debug\Check3NumsSum.exe
+C:\Users\Adi\documents\visual studio 2015\Projects\PreparationBasics\Check3NumsSum\bin\Debug\Check3NumsSum.pdb
+C:\Users\Adi\documents\visual studio 2015\Projects\PreparationBasics\Check3NumsSum\obj\Debug\Check3NumsSum.exe
+C:\Users\Adi\documents\visual studio 2015\Projects\PreparationBasics\Check3NumsSum\obj\Debug\Check3NumsSum.pdb
